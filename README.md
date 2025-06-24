@@ -3,16 +3,6 @@
 <!--
 **laninchowdhury/laninchowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <p align="center">
   <img src="banner.png" alt="TripleTen Data Projects" width="800"/>
@@ -46,16 +36,7 @@ I'm a data science graduate from TripleTen with a strong passion for solving rea
 | IMDB Sentiment | NLP | Classification | TF-IDF, ROC |
 | Taxi Forecasting | Transport | Time Series | statsmodels |
 ``` |
-| 🔗 **Project Links** | Make each project name clickable to its folder or notebook |
 
----
 
-### Want Help With README Template?
-
-I can generate an upgraded `README.md` for your root directory and even custom ones for each project folder (`IMDB_Sentiment_Classification`, etc). Just say:
-
-> “Generate polished README for my main GitHub repo”  
-or  
-> “Make README for Used_Car_Price”
 
 
