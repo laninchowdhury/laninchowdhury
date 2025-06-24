@@ -38,7 +38,7 @@ I'm a data science graduate from TripleTen with a strong passion for solving rea
 ``` |
 
 
-
+profile banner.png
 
 
 
