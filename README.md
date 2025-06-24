@@ -30,7 +30,6 @@ I'm a data science graduate from TripleTen with a strong passion for solving rea
 ### 📊 Highlight Projects
 - [Data Projects – TripleTen](https://github.com/laninchowdhury/Data_projects_TripleTen)
 - [Car Sales Project](https://github.com/laninchowdhury/Car_Sales_Project)
-![Banner](./your_image_name.png)
 ``` |
 | 🌟 **Project Order** | Reorder the links to start with strongest ones:  
 1. Customer Churn  
