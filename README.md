@@ -7,7 +7,6 @@
 <p align="center">
   <img src="banner.png" alt="TripleTen Data Projects" width="800"/>
 </p>
-![Banner](https://github.com/laninchowdhury/laninchowdhury/blob/main/profile_banner.png)
 
 # 👋 Hi, I'm Lanin Chowdhury
 
