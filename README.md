@@ -7,34 +7,43 @@
 <p align="center">
   <img src="banner.png" alt="TripleTen Data Projects" width="800"/>
 </p>
-### 👋 Hello! I'm Lanin Chowdhury
+![Banner](https://github.com/laninchowdhury/laninchowdhury/blob/main/profile_banner.png)
 
-I'm a data science graduate from TripleTen with a strong passion for solving real-world problems using Python, statistics, and machine learning.
+# 👋 Hi, I'm Lanin Chowdhury
 
-- 💼 Currently expanding my portfolio with end-to-end ML projects
-- 🧠 Skilled in: Python, pandas, scikit-learn, SQL, NLP, visualization
-- 🔗 [Check out my LinkedIn](https://www.linkedin.com/in/laninchowdhury)
+🎓 Data science graduate from TripleTen  
+🔍 Passionate about solving real-world problems with **Python, Machine Learning, and Data Analysis**  
+📊 From sentiment classification to customer churn and profitability forecasting
 
 ---
 
-### 📊 Highlight Projects
-- [Data Projects – TripleTen](https://github.com/laninchowdhury/Data_projects_TripleTen)
-- [Car Sales Project](https://github.com/laninchowdhury/Car_Sales_Project)
-``` |
-| 🌟 **Project Order** | Reorder the links to start with strongest ones:  
-1. Customer Churn  
-2. IMDB Sentiment  
-3. Taxi Forecasting  
-4. Oil Well  
-5. Used Car |
-| 🧼 **Folder Names** | Rename to consistent lower_snake_case (e.g., `beta_bank_churn`, `used_car_price`) |
-| 🧠 **Summary Table** | Include a project summary table in README like:  
-```markdown
-| Project | Domain | ML Task | Tools |
-|--------|--------|---------|--------|
-| Customer Churn | Telecom | Classification | scikit-learn, pandas |
-| IMDB Sentiment | NLP | Classification | TF-IDF, ROC |
-| Taxi Forecasting | Transport | Time Series | statsmodels |
+## 🔧 Projects at a Glance
+
+| Project                        | Domain      | ML Task         | Tools Used                         |
+|-------------------------------|-------------|------------------|------------------------------------|
+| [Customer Churn Prediction](https://github.com/laninchowdhury/Data_projects_TripleTen/tree/main/Customer_Churn_Prediction) | Telecom      | Classification | Scikit-learn, pandas, matplotlib   |
+| [IMDB Sentiment Classification](https://github.com/laninchowdhury/Data_projects_TripleTen/tree/main/IMDB_Sentiment_Classification) | NLP          | Sentiment Analysis | TF-IDF, Logistic Regression        |
+| [Taxi Demand Forecasting](https://github.com/laninchowdhury/Data_projects_TripleTen/tree/main/Taxi_Demand_and_Forecasting) | Transportation | Time Series      | statsmodels, pandas                |
+| [Oil Well Profitability](https://github.com/laninchowdhury/Data_projects_TripleTen/tree/main/Oil_Well_Profitability) | Energy       | Regression       | scikit-learn, seaborn              |
+| [Used Car Price Analysis](https://github.com/laninchowdhury/Data_projects_TripleTen/tree/main/Used_Car_Price) | Automotive   | Price Prediction | Linear Models, Pandas              |
+| [Beta Bank Churn (F1 Optimized)](https://github.com/laninchowdhury/Data_projects_TripleTen/tree/main/BetaBank_Churn_Prediction) | Banking      | Classification   | Random Forest, ROC-AUC, F1 Score   |
+
+---
+
+## 🧰 Tools & Tech
+
+- Python, NumPy, pandas, Matplotlib, Seaborn  
+- scikit-learn, statsmodels, NLTK, Plotly  
+- Jupyter Notebook, Git & GitHub
+
+---
+
+## 🌐 Let's Connect!
+
+📫 Email: **laninchowdhuryva@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/laninchowdhury) | [GitHub](https://github.com/laninchowdhury)
+
+
 ``` |
 
 
