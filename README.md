@@ -17,3 +17,16 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="banner.png" alt="TripleTen Data Projects" width="800"/>
 </p>
+### 👋 Hello! I'm Lanin Chowdhury
+
+I'm a data science graduate from TripleTen with a strong passion for solving real-world problems using Python, statistics, and machine learning.
+
+- 💼 Currently expanding my portfolio with end-to-end ML projects
+- 🧠 Skilled in: Python, pandas, scikit-learn, SQL, NLP, visualization
+- 🔗 [Check out my LinkedIn](https://www.linkedin.com/in/laninchowdhury)
+
+---
+
+### 📊 Highlight Projects
+- [Data Projects – TripleTen](https://github.com/laninchowdhury/Data_projects_TripleTen)
+- [Car Sales Project](https://github.com/laninchowdhury/Car_Sales_Project)
