@@ -38,7 +38,7 @@ I'm a data science graduate from TripleTen with a strong passion for solving rea
 ``` |
 
 
-![Banner](https://github.com/laninchowdhury/laninchowdhury/blob/main/banner.png)
+
 
 
 
